@@ -1,0 +1,8 @@
+{
+  "invoice_number": "12345",
+  "audit_status": "clean",
+  "risk_level": "LOW",
+  "findings_summary": "Transaction appears normal with no anomalies detected",
+  "findings": [],
+  "total_findings": 0
+}
